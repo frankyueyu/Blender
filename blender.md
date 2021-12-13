@@ -22,7 +22,7 @@ I'm learning blender! Here are some of the things that I've learned:
 > ### Moved with just G:
 > ![](Images/g_or_moving_moved.png)
 > ### G + x (moving by the x axis):
-> ![](Images/g_or_moving_by_the_x_axis)
+> ![](Images/g_or_moving_by_the_x_axis.png)
 > ### blah
 
 > * ## Select the thing that you want to delete and then X to delete
