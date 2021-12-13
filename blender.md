@@ -12,7 +12,9 @@ I'm learning blender! Here are some of the things that I've learned:
 ![](Images/zooming_in_and_out_zoomed_in.png)
 ### Zoomed out:
 ![](Images/zooming_in_and_out_zoomed_out.png)
-* ## G to move or G + an axis to move by that axis (same for r (rotate) and s (scale)) (I guess that one was a bit of a bonus) (Whewee, I am using a lot of parentheses)
+* ## G to move based on your 2d thing you see or G + an axis to move by that axis (same for r (rotate) and s (scale)) (I guess that one was a bit of a bonus) (Whewee, I am using a lot of parentheses)
+### G:
+
 * ## Select the thing that you want to delete and then X to delete
 * ## Shift + middle click
 * ## Numpad
