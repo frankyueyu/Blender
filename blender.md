@@ -9,10 +9,13 @@ I'm learning blender! Here are some of the things that I've learned:
 > ![](Images/moving_the_screen_part_2.png)
 
 > * ## Control + middle click or scroll to zoom in and out
+
 > ### Normal:
 > ![](Images/zooming_in_and_out_normal.png)
+
 > ### Zoomed in:
 > ![](Images/zooming_in_and_out_zoomed_in.png)
+
 > ### Zoomed out:
 > ![](Images/zooming_in_and_out_zoomed_out.png)
 
