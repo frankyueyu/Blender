@@ -19,7 +19,7 @@ I'm learning blender! Here are some of the things that I've learned:
 > ### Zoomed out:
 > ![](Images/zooming_in_and_out_zoomed_out.png)
 
-> * ## Select things with left click
+> * ## Select things with left click or drag a box over what you want to select
 
 
 > * ## G to move based on your 2d thing you see or G + an axis to move by that axis (same for r (rotate) and s (scale)) (I guess that one was a bit of a bonus) (Whewee, I am using a lot of parentheses)
